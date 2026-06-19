@@ -2,7 +2,7 @@
 
 # Hey, I'm Mallikarjuna Rao 👋
 
-**Senior AI Developer** | LLM Systems Engineer | RAG Architect
+**Senior AI Developer** | LLM Systems Engineer | RAG Architect  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mallikarjuna-rao&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/mallikarjuna-rao?style=social)](https://github.com/mallikarjuna-rao)
