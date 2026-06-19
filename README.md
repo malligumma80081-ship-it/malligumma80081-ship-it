@@ -248,9 +248,9 @@ Senior AI Developer at **Axiora Global Solutions** with 2+ years of hands-on exp
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-malligumm77@gmail.com-red?logo=gmail)](mailto:malligumma77@gmail.com)
+[![Email](https://img.shields.io/badge/Email-malligumma77@gmail.com-red?logo=gmail)](mailto:malligumma77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mallikarjuna%20Rao-blue?logo=linkedin)](https://linkedin.com/in/mallikarjuna-rao)
-[![GitHub](https://img.shields.io/badge/GitHub-@malligumma80081-ship-it-black?logo=github)](https://github.com/mallikarjuna-rao)
+[![GitHub](https://img.shields.io/badge/GitHub-malligumma80081-ship-it-black?logo=github)](https://github.com/malligumma80081-ship-it)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobe)](./resume.pdf)
 
 **Open to:** AI/LLM Engineer roles | RAG System Design | Production ML Infrastructure
