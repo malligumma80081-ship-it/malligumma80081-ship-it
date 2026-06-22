@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Mallikarjuna Rao 👋
+# Hey, I'm Mallikarjuna Rao Gumma 👋
 
 **Senior AI Developer** | LLM Systems Engineer | RAG Architect  
 
@@ -249,7 +249,7 @@ Senior AI Developer at **Axiora Global Solutions** with 2+ years of hands-on exp
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-malligumma77@gmail.com-red?logo=gmail)](mailto:malligumma77@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mallikarjuna%20Rao-blue?logo=linkedin)](https://linkedin.com/in/mallikarjuna-rao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gumma-mallikarjuna-rao-a960643b4-blue?logo=linkedin)](https://linkedin.com/in/gumma-mallikarjuna-rao-a960643b4)
 [![GitHub](https://img.shields.io/badge/GitHub-malligumma80081-ship-it-black?logo=github)](https://github.com/malligumma80081-ship-it)
 [![Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobe)](./resume.pdf)
 
