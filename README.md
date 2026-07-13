@@ -2,7 +2,7 @@
 
 # Hey, I'm Mallikarjuna Rao Gumma 👋
 
-**Senior AI Developer** | LLM Systems Engineer | RAG Architect  
+**Junior AI Developer** | LLM Systems Engineer | RAG Architect  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mallikarjuna-rao&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/mallikarjuna-rao?style=social)](https://github.com/mallikarjuna-rao)
@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-Senior AI Developer at **Axiora Global Solutions** with 2+ years of hands-on expertise in production LLM systems, RAG architectures, and scalable backend infrastructure. Focused on delivering measurable impact: sub-2-second latency, 40% cost reduction, 60% automation gains.
+Senior AI Developer at **Axiora Global Solutions** with 2 years of hands-on expertise in production LLM systems, RAG architectures, and scalable backend infrastructure. Focused on delivering measurable impact: sub-2-second latency, 40% cost reduction, 60% automation gains.
 
 **Career Focus:** AI/LLM Engineer roles building production-grade intelligent systems.
 
